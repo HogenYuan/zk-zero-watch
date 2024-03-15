@@ -1,8 +1,8 @@
 const ethers = require('ethers');
 
 exports.default = {
-  add: function (a, b) {
-    return a + b;
+  add: function (a, c) {
+    return a + c;
   },
 }
 
