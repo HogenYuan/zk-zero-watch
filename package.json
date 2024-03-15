@@ -1,0 +1,18 @@
+{
+  "name": "zk-zero-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/HogenYuan/zk-zero-watch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "devDependencies": {
+    "zod": "^3.22.4"
+  }
+}
